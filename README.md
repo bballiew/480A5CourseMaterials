@@ -37,26 +37,24 @@ Below is a summary of the materials for this course (BIOM 440 at Colorado State 
 | Visualizing biological data using Matplotlib | [Module 1F ➡️](./Module1-PreliminaryPython/M1F_Matplotlib.ipynb) 
 ___
 
-<left><h3> Module 2 :  Introduction to Basic Bioinformatics.  </h3></left>
- | Description | Notebook(s)  |
- | -------- | -------- |
- | Finding, Downloading, and Annotating Biological Sequences in Python | [Module 2A ➡️](./Module2-Bioinformatics/M2A_Getting_and_Annotating_Genomic_Sequences.ipynb) |
- | Aligning Pairs and Sets of Biological Sequences in Python | [Module 2B ➡️](./Module2-Bioinformatics/M2B_Aligning_Sequences.ipynb) |
- | Performing BLAST Searches to Discover Related Sequences | [Module 2C ➡️]([./Module2-Bioinformatics/M2C_Finding_Related_Sequences.ipynb) |
- | Constructing Phylogenetic Trees to Represent Biological Histories | [Module 2D ➡️](./Module2-Bioinformatics/M2D_Constructing_Phylogenetic_Histories.ipynb) |
-
-___
-
-<left><h3> Module 3 :  Multivariable Statistics and Machine Learning for Biological Data.  </h3></left>
+<left><h3> Module 2 :  Multivariable Statistics and Machine Learning for Biological Data.  </h3></left>
 | Description  | Notebook(s)  | 
 | -------- | -------- |
- | Sampling from Distributions, Expected Values and Summary Statistics | [Module 3A ➡️](./Module3-Statistics/M3A_Distributions_Sampling_Expectations_and_SummaryStatistics.ipynb) |
- | Computing Likelihood Functions and Estimating Models from Data| [Module 3B ➡️]([./Module3-Statistics/M3B_LikelihoodFunctions_Estimation.ipynb) |
- | Performing Hypothesis Testing to Determine Significance and P-values | [Module 3C ➡️](./Module3-Statistics/M3C_HypothesisTesting_Significance_Pvalues.ipynb) |
- | Introduction to Machine Learning and Regression Analyses| [Module 3D ➡️](./Module3-Statistics/M3D_Intro_to_ML_and_Basics_of_Regression.ipynb) |
- | Using Machine Learning for Classification Analysis| [Module 3E ➡️](./Module3-Statistics/M3E_Basics_of_Classification.ipynb) |
+ | Sampling from Distributions, Expected Values and Summary Statistics | [Module 2A ➡️](./Module2-Statistics/M2A_Distributions_Sampling_Expectations_and_SummaryStatistics.ipynb) |
+ | Computing Likelihood Functions and Estimating Models from Data| [Module 2B ➡️]([./Module2-Statistics/M2B_LikelihoodFunctions_Estimation.ipynb) |
+ | Performing Hypothesis Testing to Determine Significance and P-values | [Module 2C ➡️](./Module2-Statistics/M2C_HypothesisTesting_Significance_Pvalues.ipynb) |
+ | Introduction to Machine Learning and Regression Analyses| [Module 2D ➡️](./Module2-Statistics/M2D_Intro_to_ML_and_Basics_of_Regression.ipynb) |
+ | Using Machine Learning for Classification Analysis| [Module 2E ➡️](./Module2-Statistics/M2E_Basics_of_Classification.ipynb) |
 ___
 
+<left><h3> Module 3 :  Analyses of Biological Sequences.  </h3></left>
+ | Description | Notebook(s)  |
+ | -------- | -------- |
+ | Finding, Downloading, and Annotating Biological Sequences in Python | [Module 3A ➡️](./Module3-Bioinformatics/M3A_Getting_and_Annotating_Genomic_Sequences.ipynb) |
+ | Aligning Pairs and Sets of Biological Sequences in Python | [Module 3B ➡️](./Module3-Bioinformatics/M3B_Aligning_Sequences.ipynb) |
+ | Performing BLAST Searches to Discover Related Sequences | [Module 3C ➡️]([./Module3-Bioinformatics/M3C_Finding_Related_Sequences.ipynb) |
+ | Constructing Phylogenetic Trees to Represent Biological Histories | [Module 3D ➡️](./Module3-Bioinformatics/M3D_Constructing_Phylogenetic_Histories.ipynb) |
+___
 
 <left><h3> Module 4 : Optical Microscopy Experiments and Image Processing. </h3></left>
 | Description | Notebook(s)  |
