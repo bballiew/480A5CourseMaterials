@@ -25,7 +25,7 @@ ___
 ## Course Materials
 
 Below is a summary of the materials for this course (BIOM 440 at Colorado State University).  Please pull to refresh this repository often as these materials may change at any time up to the actual lecture date!  Please note that the six homework assignments cover multiple topics. To complete these assigments follow the provided links, clone the repository and commit and push your work to be graded. See course Canvas page for deadlines.
-
+this is a mistake
 <left><h3> Module 1 : Getting Started with Basic Scientific Computing in Python. </h3></left>
 | Description | Links to Notebook(s) |
 | -------- | -------- |
