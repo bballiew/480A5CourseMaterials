@@ -55,8 +55,3 @@ sequences.fa
 Module4-ImageProcessing/tracking_particles.csv
 image_cell.tif
 image.jpg
-Module3-Bioinformatics/proteinBLASTresult.fa
-Module3-Bioinformatics/proteinBLASTresult.xml
-Module3-Bioinformatics/proteinBLASTresult_accessions.txt
-Module3-Bioinformatics/proteinBLASTresult_combined.fa
-Module3-Bioinformatics/proteinBLASTresult_sequences.txt
